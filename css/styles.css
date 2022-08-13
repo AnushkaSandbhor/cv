@@ -1,0 +1,25 @@
+body {
+  background-color:#FCE2DB;
+}
+hr {
+
+  border-style: dotted none none;
+  color: #EEEEEE;
+  width: 10%;
+  border-width: 10px;
+
+}
+ h1
+{
+  color: #FF8FB1;
+  font-family: Papyrus;
+}
+h3
+{
+ color: #FF8FB1;
+}
+img
+{
+ height: 100px;
+ width: 100px;
+}
